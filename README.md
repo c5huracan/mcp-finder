@@ -1,4 +1,4 @@
-# MCP Finder — Claude Code Plugin
+# MCP Finder - Claude Code Plugin
 
 Find the right MCP server for any task. Search 4,500+ servers ranked by community trust.
 
@@ -20,7 +20,7 @@ Just ask Claude to find an MCP server:
 ## What's inside
 
 - **4,500+ MCP servers** indexed from awesome-mcp-servers, npm, PyPI, and the official MCP registry
-- **Ranked by community trust** — GitHub stars, recency, and usage signals
-- **Instant config** — Claude helps you add the server to your `.mcp.json`
+- **Ranked by community trust** - GitHub stars, recency, and usage signals
+- **Instant config** - Claude helps you add the server to your `.mcp.json`
 
 Powered by [Project Meyhem](https://api.rhdxm.com).
