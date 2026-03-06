@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-finder": {
+      "type": "streamable-http",
+      "url": "https://api.rhdxm.com/mcp/"
+    }
+  }
+}
