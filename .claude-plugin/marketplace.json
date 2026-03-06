@@ -1,0 +1,28 @@
+{
+  "name": "mcp-finder",
+  "owner": {
+    "name": "c5huracan"
+  },
+  "metadata": {
+    "description": "MCP server discovery plugin for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "mcp-finder",
+      "source": ".",
+      "description": "Find the right MCP server for your task. 4,500+ servers ranked by community trust.",
+      "version": "0.1.0",
+      "author": {
+        "name": "c5huracan"
+      },
+      "homepage": "https://api.rhdxm.com",
+      "repository": "https://github.com/c5huracan/mcp-finder",
+      "keywords": [
+        "mcp",
+        "mcp-server",
+        "mcp-discovery",
+        "agent-tools"
+      ]
+    }
+  ]
+}
